@@ -14,9 +14,12 @@ document.addEventListener('DOMContentLoaded', function () {
                 window.location.href = 'contact.html';
                 break;
             case 'learn-more':
-                window.location.href = 'learn-more.html';
+                window.location.href = 'about.html';
                 break;
             case 'home':
+                window.location.href = 'home.html';
+                break;
+            case 'logo':
                 window.location.href = 'home.html';
                 break;
             default:
